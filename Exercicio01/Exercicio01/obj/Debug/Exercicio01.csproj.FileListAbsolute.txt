@@ -1,0 +1,7 @@
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

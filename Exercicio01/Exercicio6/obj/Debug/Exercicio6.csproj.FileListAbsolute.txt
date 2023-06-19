@@ -1,0 +1,6 @@
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\obj\Debug\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\bin\Debug\Exercicio6.exe.config
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\bin\Debug\Exercicio6.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\bin\Debug\Exercicio6.pdb
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\obj\Debug\Exercicio6.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio6\obj\Debug\Exercicio6.pdb
