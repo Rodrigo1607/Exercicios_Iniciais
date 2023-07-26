@@ -1,0 +1,7 @@
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+C:\Users\Usuário\Desktop\Curso\Exercicios\Exercicio01\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
